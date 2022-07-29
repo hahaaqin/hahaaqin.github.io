@@ -1,6 +1,6 @@
 ## Welcome to Hahaaqin's Home
 
-You can use the [editor on GitHub](https://github.com/hahaaqin/hahaaqin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+今天是2022年7月29日16:28，今天开始编写这个不太成熟的blog，记录我生活的点点滴滴。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
